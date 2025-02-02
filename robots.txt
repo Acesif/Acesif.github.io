@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://asifzubayerpalak.meblank/sitemap.xml
+User-agent: * Disallow: Sitemap: https://asifzubayerpalak.me/sitemap.xml
