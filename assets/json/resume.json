@@ -37,12 +37,20 @@
     }
   ],
   "certificates": [
-    "Unsupervised Learning, Recommenders, Reinforcement Learning",
-    "Advanced Learning Algorithms",
-    "Supervised Machine Learning - Regression and Classification",
-    "Generative AI with Large Language Models"
+    {
+      "Course": "Unsupervised Learning, Recommenders, Reinforcement Learning"
+    },
+    {
+      "Course": "Advanced Learning Algorithms"
+    },
+    {
+      "Course": "Supervised Machine Learning - Regression and Classification"
+    },
+    {
+      "Course": "Generative AI with Large Language Models"
+    }
   ],
-  "work": [
+  "research": [
     {
       "position": "Researcher",
       "institution": "University of Illinois Urbana-Champaign (UIUC)",
@@ -76,7 +84,7 @@
       "description": "Submitted - USENIX ATC ’25"
     }
   ],
-  "experience": [
+  "work experience": [
     {
       "position": "Junior Software Engineer",
       "institution": "Karooth IT, Dhaka, BD",
@@ -128,15 +136,31 @@
       "url": "https://github.com/Acesif/tick-kati"
     }
   ],
-  "skills": {
-    "languages": ["Java", "Python", "SQL (MySQL)", "JavaScript", "TypeScript", "HTML/CSS"],
-    "frameworks": ["Spring Boot", "Angular", "PyTorch", "Node.js"],
-    "libraries": ["pandas", "NumPy", "Matplotlib", "scikit-learn"],
-    "tools": ["Docker", "Linux/Unix (Ubuntu, CentOS & Arch)", "Jenkins"],
-    "principles": ["SOLID", "DRY", "ACID"]
-  },
-  "otherInterests": [
+  "skills": [
+    {
+      "languages": ["Java", "Python", "SQL (MySQL)", "JavaScript", "TypeScript", "HTML/CSS"]
+    },
+    {
+      "frameworks": ["Spring Boot", "Angular", "PyTorch", "Node.js"]
+    },
+    {
+      "libraries": ["pandas", "NumPy", "Matplotlib", "scikit-learn"]
+    },
+    {
+      "tools": ["Docker", "Linux/Unix (Ubuntu, CentOS & Arch)", "Jenkins"]
+    },
+    {
+      "principles": ["SOLID", "DRY", "ACID"]
+    }
+  ],
+  "other interests": [
     "Artificial Intelligence for Software Engineering Research",
     "Web Application Development"
-  ]
+  ],
+  "volunteer": [],
+  "languages": [],
+  "references": [],
+  "work": [],
+  "awards": [],
+  "meta": {}
 }
