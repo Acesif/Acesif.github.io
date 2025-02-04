@@ -26,12 +26,12 @@
       institution: BRAC University, Dhaka, BD
       year: Jan. 2020 – Dec. 2023
       description:
-        - CGPA: 3.76 / 4.00
-        - Relevant Coursework:
-            - Natural Language Processing
-            - Data Structures & Algorithms
-            - Operating Systems
-            - Linear Algebra & Fourier Analysis
+        CGPA: 3.76 / 4.00
+        Relevant Coursework:
+          - Natural Language Processing
+          - Data Structures & Algorithms
+          - Operating Systems
+          - Linear Algebra & Fourier Analysis
 
 - title: Certifications
   type: list
@@ -73,19 +73,22 @@
 - title: Industry Experience
   type: time_table
   contents:
-    - title: Junior Software Engineer
-      institution: Karooth IT, Dhaka, BD
-      year: Jun. 2024 – Present
+    - title: "Junior Software Engineer"
+      institution: "Karooth IT, Dhaka, BD"
+      year: "Jun. 2024 – Present"
       description:
-        - Developed a Helpdesk application with Spring Boot and Angular
-        - Developed RESTful APIs for the Grievance Redress System
-    - title: Software Engineer Intern
-      institution: bKash Limited, Dhaka, BD
-      year: Jan. 2024 – May 2024
+        Responsibilities:
+          - "Developed a Helpdesk application with Spring Boot and Angular"
+          - "Developed RESTful APIs for the Grievance Redress System"
+
+    - title: "Software Engineer Intern"
+      institution: "bKash Limited, Dhaka, BD"
+      year: "Jan. 2024 – May 2024"
       description:
-        - Designed and developed a lunch booking and management system for subscribers and vendors
-        - Developed RESTful APIs for the microservices with roles-permission management
-        - Implemented unit tests using JUnit and Mockito for internal applications, ensuring robust code coverage
+        Responsibilities:
+          - "Designed and developed a lunch booking and management system for subscribers and vendors"
+          - "Developed RESTful APIs for the microservices with roles-permission management"
+          - "Implemented unit tests using JUnit and Mockito for internal applications, ensuring robust code coverage"
 
 - title: Open Source Projects
   type: time_table
