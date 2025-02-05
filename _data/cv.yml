@@ -13,25 +13,25 @@
 - title: Research Interests
   type: list
   contents:
-    - Natural Language Processing
     - Large Language Models
     - Code Generation
-    - Software Engineering
     - AI4SE
 
 - title: Education
   type: time_table
   contents:
-    - title: Bachelor of Science in Computer Science and Engineering
-      institution: BRAC University, Dhaka, BD
-      year: Jan. 2020 – Dec. 2023
+    - title: "BSc in Computer Science and Engineering"
+      year: 2020 – 2023
+      institution: "BRAC University, Dhaka, BD"
       description:
-        CGPA: 3.76 / 4.00
-        Relevant Coursework:
-          - Natural Language Processing
-          - Data Structures & Algorithms
-          - Operating Systems
-          - Linear Algebra & Fourier Analysis
+        - "CGPA: 3.76 / 4.00"
+        - title: "Relevant Coursework:"
+          description:
+            - Natural Language Processing
+            - Data Structures & Algorithms
+            - Operating Systems
+            - Linear Algebra & Fourier Analysis
+
 
 - title: Certifications
   type: list
@@ -44,15 +44,19 @@
 - title: Research Experience
   type: time_table
   contents:
-    - title: Researcher
+    - title: Research
       institution: University of Illinois Urbana-Champaign (UIUC)
       description:
-        - Working on "PROBE: Provenance for Replay Observation Engine" with Samuel Grayson (PhD @ UIUC)
-    - title: Researcher
+        - Working on PROBE (Provenance for Replay Observation Engine) with Samuel Grayson (PhD @ UIUC)
+    - title: Research
+      institution: BRAC University
+      description:
+        - "Working on PreFlora: Predicting pollinator bee's flower preference through floral patterns (Supervised by Dr. Munima Haque)"
+    - title: Research
       institution: University of Illinois Urbana-Champaign (UIUC)
       description:
         - Worked on validating Java-to-Python code translation using original tests through language interoperability with GraalVM (Supervised by Dr. Darko Marinov)
-    - title: Researcher
+    - title: Research
       institution: BRAC University
       description:
         - Worked on Pattern Recognition to enable shoppers to find clothing products by matching their doodle sketches to products online (Supervised by Dr. Farig Yousuf Sadeque)
@@ -75,20 +79,18 @@
   contents:
     - title: "Junior Software Engineer"
       institution: "Karooth IT, Dhaka, BD"
-      year: "Jun. 2024 – Present"
+      year: "2024 – Now"
       description:
-        Responsibilities:
-          - "Developed a Helpdesk application with Spring Boot and Angular"
-          - "Developed RESTful APIs for the Grievance Redress System"
+        - Developed a Helpdesk application with Spring Boot and Angular
+        - Developed RESTful APIs for the Grievance Redress System
 
     - title: "Software Engineer Intern"
       institution: "bKash Limited, Dhaka, BD"
-      year: "Jan. 2024 – May 2024"
+      year: "2024"
       description:
-        Responsibilities:
-          - "Designed and developed a lunch booking and management system for subscribers and vendors"
-          - "Developed RESTful APIs for the microservices with roles-permission management"
-          - "Implemented unit tests using JUnit and Mockito for internal applications, ensuring robust code coverage"
+        - Designed and developed a lunch booking and management system for subscribers and vendors
+        - Developed RESTful APIs for the microservices with roles-permission management
+        - Implemented unit tests using JUnit and Mockito for internal applications, ensuring robust code coverage
 
 - title: Open Source Projects
   type: time_table
