@@ -3,7 +3,7 @@ layout: about
 title: about
 permalink: /
 subtitle: 
-  <a href='https://www.karoothitbd.com/'>Junior Software Engineer</a> Karooth IT BD
+  <a href='https://www.sazim.io/'>Software Engineer</a> Sazim Tech
   <br />
   <a href='https://www.bracu.ac.bd/'>Computer Science Graduate</a> BRAC University
   <br />
@@ -30,12 +30,10 @@ latest_posts:
 
 I'm a Computer Science graduate from BRAC University, specializing in Software Development and research in AI4SE. 
 <br />
-I have research experience in code translation and pattern recognition, with publications in notable conferences.
+I have research experience in code interoperability and pattern recognition, with publications in ICSME and INTCEC.
 <br />
-Currently, I work as a Jr. Software Engineer at Karooth IT BD.
+Currently, I work as a Software Engineer at Sazim Tech.
 
 I have previously worked on research projects with the supervision of 
 <br />
-<a href='https://www.cse.sds.bracu.ac.bd/faculty_profile/194/dr_farig_yousuf_sadeque'>Prof. Farig Sadeque</a> and <a href='https://mir.cs.illinois.edu/marinov/'>Prof. Darko Marinov</a>
-<br />
-I am currently working on a research project with the supervision of <a href='https://www.bracu.ac.bd/about/people/munima-haque-phd'>Prof. Munima Haque</a> and am working with <a href='https://samgrayson.me/'>Samuel Grayson (PhD)</a> 
+<a href='https://www.bracu.ac.bd/about/people/farig-yousuf-sadeque'>Prof. Farig Sadeque</a>, <a href='https://mir.cs.illinois.edu/marinov/'>Prof. Darko Marinov</a>, and <a href='https://samgrayson.me/'>Samuel Grayson (PhD)</a>
