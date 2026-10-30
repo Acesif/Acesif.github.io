@@ -1,1 +1,1 @@
-User-agent: * Disallow: Sitemap: https://asifzubayerpalak.me/sitemap.xml
+User-agent: * Disallow: Sitemap: https://acesif.github.io/sitemap.xml
