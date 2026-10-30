@@ -3,7 +3,12 @@ github_users:
 repo_description_lines_max: 2
 
 github_repos:
-  - Acesif/HelpDesk
-  - Acesif/ScholarSync
-  - Acesif/Restaurent-Mangement-System
-  - Acesif/Real-time-Chat-Application
+  - AcesifLabs/Expenzo
+  - AcesifLabs/ghost-coach
+  - AcesifLabs/ScholarSync
+  - AcesifLabs/Web-Action-Replay
+  - AcesifLabs/Welp
+  - AcesifLabs/Formflow-Autofiller
+  - AcesifLabs/coursegenie-mobile
+  - AcesifLabs/Reddit-Info-Dump
+  - AcesifLabs/Restaurent-Mangement-System
