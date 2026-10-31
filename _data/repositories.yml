@@ -1,14 +1,28 @@
-github_users:
-  - acesif
-repo_description_lines_max: 2
-
 github_repos:
-  - AcesifLabs/Expenzo
-  - AcesifLabs/ghost-coach
-  - AcesifLabs/ScholarSync
-  - AcesifLabs/Web-Action-Replay
-  - AcesifLabs/Welp
-  - AcesifLabs/Formflow-Autofiller
-  - AcesifLabs/coursegenie-mobile
-  - AcesifLabs/Reddit-Info-Dump
-  - AcesifLabs/Restaurent-Mangement-System
+  - repo: AcesifLabs/Expenzo
+    description: Offline expense tracker that parses bank SMS, with budgets and recurring bills (Flutter)
+    language: Dart
+  - repo: AcesifLabs/ghost-coach
+    description: Upload a stance photo, get structured coaching feedback from Gemini
+    language: Java
+  - repo: AcesifLabs/ScholarSync
+    description: Research paper discovery with Semantic Scholar, a citation graph, and Gemini fallback
+    language: Java
+  - repo: AcesifLabs/Web-Action-Replay
+    description: Chrome extension that records browsing sessions and replays them from ZIP files
+    language: JavaScript
+  - repo: AcesifLabs/Welp
+    description: Local business discovery app with reviews, bookings and messaging (Flutter + Spring Boot)
+    language: Dart
+  - repo: AcesifLabs/Formflow-Autofiller
+    description: Chrome extension that fills Google Forms from your profile using LLM reasoning
+    language: TypeScript
+  - repo: AcesifLabs/coursegenie-mobile
+    description: Expo app that turns uploaded video files into a Gemini-organized course library
+    language: TypeScript
+  - repo: AcesifLabs/Reddit-Info-Dump
+    description: Search Reddit threads via Google and summarize them with an LLM (Next.js + FastAPI)
+    language: TypeScript
+  - repo: AcesifLabs/Restaurent-Mangement-System
+    description: Spring Boot REST API for restaurant management with JWT auth
+    language: Java

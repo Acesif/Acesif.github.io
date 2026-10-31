@@ -538,6 +538,19 @@ footer.sticky-bottom {
 
 // Repositories
 
+.repo .card {
+  color: var(--global-text-color);
+  border: 1px solid var(--global-divider-color);
+
+  &:hover {
+    text-decoration: none;
+  }
+
+  .card-title b {
+    color: var(--global-theme-color);
+  }
+}
+
 @media (min-width: 768px) {
   .repo {
     max-width: 50%;
